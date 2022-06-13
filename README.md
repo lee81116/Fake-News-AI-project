@@ -5,7 +5,7 @@ Implemented by 4 cute students from NYCU.
 * As the technology is developing skyrocket , there are so many fake news spreaded around the internet. We also found that many elders can not distinguish whether the news is real or fake , and share it without checking if it’s the truth. As the reason we mentioned above, it’s time for us to develop an invention to fight with the fake news, to detect whether it’s real.
 ## Prerequisite
 <p>Environment & Packages Version</p>
-* Google Colab
+*Google Colab
 * tensorflow 2.8.2
 * Dropout 2.0
 * opencc 1.1.4
